@@ -1,0 +1,12 @@
+body{
+    background-image:url(dramatic-sunset-ocean-with-crashing-waves-rocky-cliffs_9975-33162.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.white{
+    display: block;  
+    place-items: center;
+    color: black;
+}
